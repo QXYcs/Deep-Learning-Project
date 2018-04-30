@@ -1,2 +1,2 @@
 # Deep-Learning-Project
-This document includes homewor1-3 for deep learning class
+This document includes homework1-3 for deep learning class
